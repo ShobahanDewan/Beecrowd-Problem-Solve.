@@ -3,7 +3,6 @@ int main()
 {
     int a, b, c, i, j, k,temp;
     scanf("%d %d %d",&a,&b,&c);
-    
     i=a;
     j=b;
     k=c;
