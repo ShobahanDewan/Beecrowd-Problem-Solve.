@@ -2,9 +2,7 @@
 int main()
 {
     double first, second, third, fourth, last, sum;
-    
-    scanf("%lf %lf %lf %lf", &first, &second, &third, &fourth);
-    
+    scanf("%lf %lf %lf %lf", &first, &second, &third, &fourth);  
     sum = (first * 2 + second * 3 + third * 4 + fourth) / 10;
     printf("Media: %.1f\n", sum);
     if (sum >= 7.0)
