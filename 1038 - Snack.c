@@ -4,6 +4,7 @@ int main()
 {
     int x,y;
     float p=0;
+    
     scanf("%d %d",&x,&y);
     if(x==1)
     {
