@@ -5,7 +5,6 @@ int main()
     double a, b, c, pr1;
     scanf("%lf %lf %lf", &a, &b, &c);
     pr1 = (b*b) - (4*(a)*(c));
-
     if(pr1 > 0 && a != 0)
     {
         double x, y;
