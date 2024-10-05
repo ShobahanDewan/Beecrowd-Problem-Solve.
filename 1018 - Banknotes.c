@@ -4,6 +4,7 @@ int main()
 {
     int N,hun=0,fift=0,twent=0,ten=0,five=0,two=0,one=0;
     scanf("%d",&N);
+    
     printf("%d\n",N);
     if(N>0&&N<1000000)
     {
