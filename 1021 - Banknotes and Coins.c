@@ -18,7 +18,6 @@ int main()
     j=h%5;
     k=j/2;
     l=j%2;
-
     D=N*100;
     C=(int) D;
     m=C%100;
