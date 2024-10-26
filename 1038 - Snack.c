@@ -13,6 +13,7 @@ int main()
     else if(x==2)
     {
         p = (float)(4.50 * y);
+        
     }
     else if(x==3)
     {
