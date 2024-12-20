@@ -6,7 +6,6 @@ int main()
     scanf("%lf %lf %lf",&A,&B,&C);
     printf("TRIANGULO: %0.3lf\n",Area1 = 1/2.0 * A * C);
     printf("CIRCULO: %0.3lf\n",Area2 = pi * pow(C,2));
-    
     printf("TRAPEZIO: %0.3lf\n",Area3 = 1/2.0 *(A+B)* C);
     printf("QUADRADO: %0.3lf\n",Area4 = pow(B,2));
     printf("RETANGULO: %0.3lf\n",Area5 = A*B);
