@@ -13,6 +13,7 @@ int main()
         y = (-b - pr1)/(2*a);
         printf("R1 = %.5lf\n", x);
         printf("R2 = %.5lf\n", y);
+    
     }
     else
     {
