@@ -26,7 +26,8 @@ int main() {
             if(num[l] == '0') leds += 6;
             l++;
         }
-        cout<<leds<<" leds"<<endl;
+       
+          cout<<leds<<" leds"<<endl;
 }
     return 0;
 }
