@@ -8,6 +8,7 @@ int main()
     m=n/30;
     k=(n-m*30);
     d=k;
+    
     printf("%d ano(s)\n",y);
     printf("%d mes(es)\n",m);
     printf("%d dia(s)\n",d);
