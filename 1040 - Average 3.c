@@ -14,6 +14,7 @@ int main()
         printf("Aluno em exame.\n");
         scanf("%lf", &last);
         printf("Nota do exame: %.1f\n", last);
+
         
         if (last + sum / 2.0 > 5.0)
         {
