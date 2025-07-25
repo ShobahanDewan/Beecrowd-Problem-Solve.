@@ -8,6 +8,7 @@ int main()
     if(N>0&&N<1000000)
     {
     hun=N/100;
+
     fift=((N-(hun*100))/50);
     twent=((N-((fift*50)+(hun*100)))/20);
     ten=((N-((twent*20)+(fift*50)+(hun*100)))/10);
